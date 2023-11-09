@@ -1,3 +1,3 @@
-#materi untuk aplikasi GIT
-##ditulis oleh nasywaa
+# Materi untuk aplikasi GIT
+## Ditulis oleh nasywaa
 
